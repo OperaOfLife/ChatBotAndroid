@@ -1,4 +1,4 @@
-package com.tdsoft.chatbotapp
+//package com.tdsoft.chatbotapp
 
-data class ChatModel(val chat: String, val isBot: Boolean = false) {
-}
+//data class ChatModel(val chat: String, val isBot: Boolean = false) {
+//}
